@@ -1,0 +1,5 @@
+Age,previous_period_zscore,comeback_from_injury,position,player,predicted_bpm_zscore,predicted_difference
+26,2.417574,Achilles (Tear),Small,Tyrese Haliburton,-0.08702884357867813,-2.5046028435786782
+28,2.547959,Achilles (Tear),Big,Jayson Tatum,-0.06394682799644658,-2.6119058279964467
+33,1.720856,ACL Tear,Small,Kyrie Irving,0.2662804225378638,-1.454575577462136
+36,1.95765,Achilles (Tear),Small,Damian Lillard,-0.02788394919444781,-1.9855339491944477
